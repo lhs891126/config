@@ -1,2 +1,7 @@
-hosuk:
-  test: zzzzzzzz
+companyinfo:
+  hosuk:
+    secretkey: 'aaaa'
+    ip: 
+    - 203.229.121.87
+    - 127.0.0.1
+    
