@@ -1,6 +1,10 @@
 spring:
   profiles: dev
 
+server:
+  port: 8888
+
+
 hosuk:
   aaa: 'dev'
 
@@ -8,6 +12,9 @@ hosuk:
 
 spring:
   profiles: real
+  
+server:
+  port: 8888
 
 hosuk:
   aaa: 'real'
