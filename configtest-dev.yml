@@ -3,7 +3,12 @@ spring:
 
 server:
   port: 8888
-
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "refresh"  
 
 hosuk:
   aaa: 'dev'
@@ -12,6 +17,12 @@ hosuk:
 
 spring:
   profiles: real
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "refresh"  
   
 server:
   port: 8888
