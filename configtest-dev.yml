@@ -1,2 +1,13 @@
+spring:
+  profiles: dev
+
 hosuk:
-  aaa: 'asdfasdf'
+  aaa: 'dev'
+
+--
+
+spring:
+  profiles: real
+
+hosuk:
+  aaa: 'real'
