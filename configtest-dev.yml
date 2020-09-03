@@ -4,7 +4,7 @@ spring:
 hosuk:
   aaa: 'dev'
 
---
+---
 
 spring:
   profiles: real
