@@ -5,16 +5,6 @@ spring:
       name: "user"
       password: "user"
   
-
-server:
-  port: 8888
-  
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "refresh"  
-
 hosuk:
   aaa: 'dev aaaaaaaaaaaaaaaaaaa'
   
@@ -30,14 +20,5 @@ spring:
       name: "user"
       password: "user"  
   
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "refresh"  
-  
-server:
-  port: 8888
-
 hosuk:
   aaa: 'real'
