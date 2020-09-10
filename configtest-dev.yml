@@ -6,7 +6,7 @@ spring:
       password: "user"
   
 hosuk:
-  aaa: 'dev bbbb'
+  aaa: 'dev asdfasdfasdfasdf'
   
 external:
   uri: 'sdfasdfasdfasdf'
