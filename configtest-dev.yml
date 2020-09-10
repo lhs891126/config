@@ -17,6 +17,9 @@ management:
 
 hosuk:
   aaa: 'dev aaaaaaaaaaaaaaaaaaa'
+  
+external:
+  uri: 'sdfasdfasdfasdf'
 
 ---
 
