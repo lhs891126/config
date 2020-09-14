@@ -3,30 +3,3 @@ hosuk:
   
 external:
   uri: 'devdevdev'
-
-server:
-  port: 8889
-
-
-spring:
-  datasource:
-    hikari:
-      jdbc-url: jdbc:mysql://idea:3306/bc_db?autoReconnect=true&serverTimezone=UTC
-      driver-class-name: com.mysql.cj.jdbc.Driver
-      username: ENC(krYw1vtgrpJHOO7fwv4Lqg==)
-      password: ENC(v4weuhQCioxEXJK04AhPqH4MHXcn9jZr)
-
-jasypt:
-  encryptor:
-    password: bccardmcp!@cms123
-
-
-log:
-  path: /hoem/service/ncms
-  name: ncms
-  root:
-    level: DEBUG
-    appender: CONSOLE
-  app:
-    level: INFO
-    appender: ROLLING
