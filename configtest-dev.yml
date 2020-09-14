@@ -5,7 +5,7 @@ external:
   uri: 'devdevdev'
 
 server:
-  port: 7777
+  port: 8889
 
 
 spring:
