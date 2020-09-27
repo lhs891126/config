@@ -1,0 +1,10 @@
+external:
+  daou:
+    uri: https://sdfasdfasd
+    port: 8080
+    name: daou_configserver_dev
+  zlgoon:
+    uri: http://zlgoon/asdfadsf
+    port: 9090
+    name: daou_configserver_dev
+  kiwoom: daou_configserver_dev
