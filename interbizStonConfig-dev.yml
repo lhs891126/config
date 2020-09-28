@@ -2,7 +2,7 @@ external:
   daou:
     uri: https://sdfasdfasd
     port: 8080
-    name: daou_configserver_dev_devbranch
+    name: daou_configserver_dev_devbranch123123123123
   zlgoon:
     uri: http://zlgoon/asdfadsf
     port: 9090
